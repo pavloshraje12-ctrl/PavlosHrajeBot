@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "PavlosBot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "PavlosBot",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "lagland67.aternos.me",
     "port": 38923,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
